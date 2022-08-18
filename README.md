@@ -5,7 +5,7 @@
 ## https://atarashihq.com/
 > *Thank you for choosing us!*
 
-#Technical support from miner manufacturers:
+# Technical support from miner manufacturers:
 
 ## [Bitmain](https://support.bitmain.com/hc/en-us)
 ## [Canaan](https://canaan.io/service/447)
