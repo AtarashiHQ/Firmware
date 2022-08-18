@@ -6,5 +6,12 @@
 > *Thank you for choosing us!*
 
 
+## [Bitmain](https://support.bitmain.com/hc/en-us)
+## [Canaan](https://canaan.io/service/447)
+## [INNOSILICON](https://www.innosilicon.com/html/support_en/index.html)
+## [MicroBT](https://whatsminer.com/src/views/support.html)
+
+
+
 ![](https://github.com/AtarashiHQ/Bitcoin-miners/blob/main/Logo%20AC.jpg)
 #### Atarashi HQ by [Atarashi Chiheisen Co., Ltd.](https://atarashichiheisen.com/)
