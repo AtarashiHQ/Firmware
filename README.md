@@ -2,7 +2,7 @@
 ### The latest updates for bitcoin miners (Antminer, Avalon, INNOSILICON, Whatsminer, etc).
 ### Be sure to read the instructions before updating the firmware!
 
-## [Atarashi HQ team] (https://atarashihq.com/)
+## [Atarashi HQ team](https://atarashihq.com/)
 > *Thank you for choosing us!*
 
 # Technical support from miner manufacturers:
