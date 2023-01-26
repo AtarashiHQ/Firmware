@@ -11,6 +11,7 @@
 ## [Canaan](https://canaan.io/service/447)
 ## [INNOSILICON](https://www.innosilicon.com/html/support_en/index.html)
 ## [MicroBT](https://whatsminer.com/src/views/support.html)
+## [iPollo](https://ipollo.com/pages/v-series-firmware#)
 
 
 
