@@ -1,5 +1,5 @@
 # Firmware for bitcoin miners.
-### The latest updates for bitcoin miners (Antminer, Avalon, INNOSILICON, Whatsminer, etc).
+### The latest updates for bitcoin miners (Antminer, Avalon, INNOSILICON, Whatsminer, iPollo, etc).
 ### Be sure to read the instructions before updating the firmware!
 
 ## [Atarashi HQ team](https://atarashihq.com/)
