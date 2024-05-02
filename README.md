@@ -1,5 +1,5 @@
 # Firmware for cryptocurrency miners.
-### The latest updates for cryptocurrency miners (Antminer, Avalon, INNOSILICON, Whatsminer, iPollo, etc).
+### The latest updates for cryptocurrency miners (Antminer, Avalon, INNOSILICON, Whatsminer, iPollo, ICERIVER, etc).
 ### Be sure to read the instructions before updating the firmware!
 
 ## [Atarashi HQ team](https://atarashihq.com/)
@@ -12,6 +12,7 @@
 ## [INNOSILICON](https://www.innosilicon.com/html/support_en/index.html)
 ## [MicroBT](https://whatsminer.com/src/views/support.html)
 ## [iPollo](https://ipollo.com/pages/v-series-firmware#)
+## [Bgin Trading](https://www.iceriver.io/firmware-download/)
 
 
 
